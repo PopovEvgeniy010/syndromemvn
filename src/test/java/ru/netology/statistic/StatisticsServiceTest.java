@@ -5,8 +5,7 @@ import ru.netology.javaqa.StatisticsService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public
-class StatisticsServiceTest {
+public class StatisticsServiceTest {
 
     @Test
     void findMax() {
